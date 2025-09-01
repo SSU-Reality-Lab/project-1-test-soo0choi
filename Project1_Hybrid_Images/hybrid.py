@@ -2,7 +2,7 @@ import sys
 import cv2
 import numpy as np
 import os
-
+# a
 def cross_correlation_2d(img, kernel):
     '''Given a kernel of arbitrary m x n dimensions, with both m and n being
     odd, compute the cross correlation of the given image with the given
